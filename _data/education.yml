@@ -1,6 +1,7 @@
 - layout: left
   name: University of Notre Dame
   dates: 2016 - 2020
-  qualification: B.S. in Applied and Computational Mathematics and Statistics; Minor in Education, Schooling, and Society
+  qualification: B.S. in Applied and Computational Mathematics and Statistics  
+  Minor in Education, Schooling, and Society
   description: | # this will include new lines to allow paragraphs
     Describe education.
