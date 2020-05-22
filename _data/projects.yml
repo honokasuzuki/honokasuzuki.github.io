@@ -2,8 +2,6 @@
   name: Text Analysis on Academy Awards Acceptance Speeches - Actors vs. Actresses
   link: github.com/honokasuzuki/academy-awards
   github: honokasuzuki/academy-awards
-#  quote: >
-#    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
     A text analysis project to quantitatively compare transcripts of Academy Award acceptance speeches given by actors and actresses to investigate if there are differences in speech style across gender. 
     The project involves web scraping, data cleaning, and several text analytic techniques including sentiment analysis, structural topic modeling, and part-of-speech tagging, all programmed in <mark>R</mark>.
