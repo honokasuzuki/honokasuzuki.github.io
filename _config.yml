@@ -25,10 +25,10 @@ about_content: | # this will include new lines to allow paragraphs
   Proficient in R and Python, my projects have dealt with analytical techniques such as machine learning, text analysis, data visualization, statistical modeling, and data manipulation.
   
 # Projects Section
-# projects_title: Projects
+projects_title: Some Projects
 
 # Experience Section
-# experience_title: Experience
+experience_title: Relevant Experience
 
 # Education Section
 # educaton_title: Education
