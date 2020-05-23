@@ -1,13 +1,17 @@
 - layout: left
   name: University of Notre Dame
   dates: Aug 2016 - May 2020
-  qualification: B.S. in Applied and Computational Mathematics and Statistics  
+  qualification: B.S. in Applied and Computational Mathematics and Statistics, magna cum laude
   description: | # this will include new lines to allow paragraphs
-    Describe education.
-
+    During my years at Notre Dame, I gained knowledge and skills in mathematics and statistics, with a focus on computational applications, such as data mining and statistical programming. 
+    My senior thesis used machine learning techniques such as random forests to model discrepancies between learning outcomes in AP Statistics classrooms in order to understand sources of variation across performance on distinct assessments.  
+    In addition to my major's courses, I took classes in economics, business, education, literature, French, and physics. 
+    
+    Outside of academics and research, I tutored Math to local high school students, was a member of the Asian American Association, the Student International Business Council, and the Student Union Board.
+    
 - layout: left
   name: National University of Singapore
   dates: Aug 2018 - Dec 2018
   qualification: Faculty of Science - Statistics
   description: | # this will include new lines to allow paragraphs
-    Participated in a semester exchange program.
+    During the fall of 2018, I participated in a semester exchange program. Alongside statistics courses, I took courses on the history of Singapore and the sociology of education in Singapore. 
