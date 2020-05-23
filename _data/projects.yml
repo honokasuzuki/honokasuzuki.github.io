@@ -1,4 +1,4 @@
-- layout: top-middle
+- layout: left
   name: Text Analysis on Academy Awards Acceptance Speeches - Actors vs. Actresses
   link: github.com/honokasuzuki/academy-awards
   github: honokasuzuki/academy-awards
@@ -6,7 +6,7 @@
     A text analysis project to quantitatively compare transcripts of Academy Award acceptance speeches given by actors and actresses to investigate if there are differences in speech style across gender. 
     The project involves <mark>web scraping</mark>, <mark>data cleaning</mark>, and several <mark>text analytic</mark> techniques including sentiment analysis, structural topic modeling, and part-of-speech tagging, all programmed in <mark>R</mark>.
    
-- layout: top-middle
+- layout: left
   name: North Carolina Public Schools School Report Card - Adapted
   link: public.tableau.com/profile/honoka.suzuki#!/vizhome/NCPSSchoolReportCard/NCDashboard
   github: honokasuzuki/nc-publicschools
