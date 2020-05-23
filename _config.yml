@@ -18,11 +18,11 @@ about_profile_image: images/headshot_small.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Honoka.
 
-  I am a recent graduate of the University of Notre Dame with a background in Applied & Computational Statistics.
+  I'm a recent graduate of the University of Notre Dame with a background in Applied & Computational Statistics.
   With several internship experiences in the field of data science and analytics, as well as research experience in quantitative psychology, I am passionate about the use of computational, data-driven approaches to tackle the problems in our society.
   Put broadly, my career interests lie at the intersection of data and society - I aspire to become a research data scientist whose work impacts areas such as education and public health. 
   
-  Proficient in <mark>R</mark> and <mark>Python</mark>, my projects have dealt with analytical techniques such as machine learning, text analysis, data visualization, statistical modeling, and data manipulation.
+  Proficient in R and Python, my projects have dealt with analytical techniques such as machine learning, text analysis, data visualization, statistical modeling, and data manipulation.
   
 # Projects Section
 # projects_title: Projects
