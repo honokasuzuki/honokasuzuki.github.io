@@ -14,7 +14,7 @@
     An adaptation of the NC Public Schools School Report Card. The final product is an interactive <mark>data visualization</mark> created in <mark>Tableau</mark>, with the source data cleaned in <mark>R</mark>. 
    
 - layout: top-middle
-  name: Cost-sensitive Neural Networks for Classifying Mushrooms
+  name: Cost-Sensitive Neural Networks for Classifying Mushrooms
   link: github.com/honokasuzuki/poison-mushrooms
   github: honokasuzuki/poison-mushrooms
   description: | # this will include new lines to allow paragraphs
