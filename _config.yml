@@ -38,9 +38,11 @@ experience_title: Relevant Experience
 more_title: Awards and Recognition
 more_content: | # this will include new lines to allow paragraphs
    - Outstanding Applied and Computational Mathematics and Statistics Major Award
+   
    I was awarded in recognition as a graduating senior with the most outstanding scholarship, service, and leadership; selected from all ACMS majors in the graduating class of 2020.
    
    - Best Data Visualization Award, American Statistical Association Data Fest 2019 at Notre Dame
+   
    I worked in a team of 3 during a data analysis competition (approximately 35 participants, 7 teams) organized by the ASA to tackle a large, complex, and surprise dataset over a weekend and presented a final deliverable to a panel of judges at the end of the competition.
    My teammates and I were awarded “best visual” for our Tableau dashboard that tracked athletes’ game-day external GPS movement, reported internal wellness, and hydration level. 
 
