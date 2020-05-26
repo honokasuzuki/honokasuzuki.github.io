@@ -10,16 +10,23 @@
   job_title: Data Analyst
   dates: Sep 2019 - May 2020
   description: | # this will include new lines to allow paragraphs
-  
+    The Academic Technologies Lab is collaborating with Density (https://www.density.io/) to implement their occupancy sensor platform in various locations of Notre Dame's campus with the ultimate goal of influencing student behavior by providing students with access to real-time occupancy data. My role in this project was to conduct an internal study to assess the accuracy of the sensors placed in the dining halls. This involved data collection, data cleaning, statistical reliability analysis, and creating data visualizations. 
+    
+    Technologies used: R, Tableau
 - layout: left
   company: EF Education First
   link: www.ef.edu/
   job_title: Data Science Intern
   dates: May 2019 - Aug 2019
   description: | # this will include new lines to allow paragraphs
-
+    A summer data science internship. Projects included creating an interactive summary dashboard to display student survey responses, a building classification model for identifying target schools for sales calls, and giving a presentation on insghts gained from an open-ended analysis on traveler cancellation patterns. 
+    
+    Technologies used: R, Power BI, Python, SQL
 - layout: left
   company: Performance Science Team of Notre Dame Athletics
   job_title: Analytics Intern
   dates: May 2018 - May 2020
   description: | # this will include new lines to allow paragraphs
+    A summer sports analytics internship that led to a part-time role on campus for the following semesters. Projects included statistical reliability studies done on various athletic equipment (motion capture systems, wearable technologies), an imputation algorithm development for missing athlete training data, and Bayesian variance component estimation for repeated performance measures. 
+    
+    Technologies used: R, Shiny, SQL, Tableau, Stan.    
