@@ -1,12 +1,22 @@
 - layout: left
+  company: EF Education First
+  link: www.ef.edu/
+  job_title: Data Science Intern // Data Scientist
+  dates: Summer 2019 // Jul 2020 - Present
+  description: | # this will include new lines to allow paragraphs
+    A summer data science internship which led to a full-time role after graduation.
+    Internship projects included creating an interactive summary dashboard to display student survey responses, building a classification model for identifying target schools for sales calls, and giving a presentation on insghts gained from an open-ended analysis on traveler cancellation patterns. 
+    
+    Programs used: <mark>R</mark>, <mark>Python</mark>, <mark>Power BI</mark>, <mark>SQL</mark>
+    
+- layout: left
   company: Learning Analytics and Measurement in Behavioral Sciences Lab
   link: lambslab.nd.edu/
   job_title: Research Assistant
-  dates: Sep 2017 - Present
+  dates: Sep 2017 - May 2020
   description: | # this will include new lines to allow paragraphs
-    As an undergraduate research assistant, I had the priviledge to work alongside the graduate students and the director of the lab to gain important skills relevant to educational measurement research. 
-    My tasks included data cleaning, running statistical analyses, conducting literature reviews, documenting research methods/findings, and providing peer feedback on academic manuscripts. 
-    During my senior year, I wrote an honors thesis on the application of machine learning techniques to predict differences between learning outcomes (class grade, AP score, practice AP score) in AP Statistics classrooms to understand sources of variation across performance on distinct assessments. 
+    A research lab focused on the development of a cognitive diagnostic computerized adaptive testing (CD-CAT) system for AP Statistics coursework. My tasks included data cleaning, running statistical analyses, conducting literature reviews, documenting research methods/findings, and providing peer feedback on academic manuscripts. 
+    During my senior year, I wrote an honors thesis on the application of machine learning techniques to predict differences between learning outcomes (class grade, AP score, practice AP score) in AP Statistics classrooms to understand sources of variation across student performance on distinct assessments. 
     
     Programs used: <mark>R</mark>
     
@@ -15,22 +25,11 @@
   job_title: Data Analyst
   dates: Sep 2019 - May 2020
   description: | # this will include new lines to allow paragraphs
-    The Academic Technologies Lab is collaborating with Density (https://www.density.io/) to implement their occupancy sensor platform in various locations of Notre Dame's campus, with the ultimate goal of influencing student behavior by providing students with access to real-time occupancy data. My role in this project was to conduct an internal study to assess the accuracy of the sensors placed in the dining halls. The project involved technical tasks such as data collection, data cleaning, statistical reliability analysis, and creating data visualizations. 
+    The Academic Technologies Lab is collaborating with Density (https://www.density.io/) to implement their occupancy sensor platform in various locations of Notre Dame's campus, with the ultimate goal of influencing student behavior by providing students with access to real-time occupancy data. My role in this project was to conduct an internal study to assess the accuracy of the sensors placed in the dining halls and to help design and build a dashboard displaying real-time data that is accessible to ND students. The project involved technical tasks such as data collection, data cleaning, statistical reliability analysis, and creating data visualizations. 
     In addition, I regularly met with the dining hall staff and representatives from Density to obtain data, ask questions, receive feedback, and report findings. 
     
     Programs used: <mark>R</mark>, <mark>Tableau</mark>
-    
-- layout: left
-  company: EF Education First
-  link: www.ef.edu/
-  job_title: Data Science Intern
-  dates: May 2019 - Aug 2019
-  description: | # this will include new lines to allow paragraphs
-    A summer data science internship where I worked under the mentorship of a Data Scientist within the Marketing Team. 
-    My projects included creating an interactive summary dashboard to display student survey responses, building a classification model for identifying target schools for sales calls, and giving a presentation on insghts gained from an open-ended data analysis on traveler cancellation patterns. 
-    
-    Programs used: <mark>R</mark>, <mark>Python</mark>, <mark>Power BI</mark>, <mark>SQL</mark>
-    
+        
 - layout: left
   company: Performance Science Team of Notre Dame Athletics
   job_title: Analytics Intern
