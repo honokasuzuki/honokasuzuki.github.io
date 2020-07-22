@@ -34,24 +34,14 @@ experience_title: Relevant Experience
 educaton_title: Education
 
 # MMore Section
-more_title: Honors and Awards
+more_title: Publications and Presentations
 more_content: | # this will include new lines to allow paragraphs
-   Outstanding Applied and Computational Mathematics and Statistics Major Award, 2020
-   
-   - Awarded in recognition as a graduating senior with the most outstanding scholarship, service, and leadership; selected from all ACMS majors in the graduating class of 2020.
-   
-   Best Data Visualization Award, American Statistical Association Data Fest at Notre Dame, 2019
-   
-   - Worked in a team of 3 during a data analysis competition (approximately 35 participants, 7 teams) organized by the ASA to tackle a large, complex, and surprise dataset over a weekend and presented a final deliverable to a panel of judges at the end of the competition.
-   My teammates and I were awarded “best visual” for our Tableau dashboard that tracked athletes’ game-day external GPS movement, reported internal wellness, and hydration level. 
-   
-   Notre Dame Federal Credit Union Scholarship Recipient, 2018 & 2019
-   
-   - Two-time recipient of NDFCU's annual scholarship award.
-   
-   Glynn Family Honors Program Scholar, 2016 - 2020
-   
-   - Interviewed and selected as a scholar in the class of 2020 cohort of Honors students.
+  Suzuki, H., Hong, M., Ober, T., & Cheng, Y. (2020). Applying Machine Learning to Predict Differences between Learning Outcomes. Under Review.
+
+  Suzuki, H., Hong, M., Ober, T., & Cheng, Y. (2020, Mar 20–22). Machine Learning on Student Learning: Modeling Differences Between Various Student Learning Outcomes in AP Statistics Classrooms [Poster Session 1]. ACC Meeting of the Minds Conference at the University of North Carolina, Chapel Hill, NC, United States. https://accmom2020.web.unc.edu/ (Conference canceled due to COVID-19)
+
+  Galvao, D. & Suzuki, H. (2019, Nov 1). Using Real-Time Occupancy Data to Understand and Influence Student Behavior [Poster Session 2]. Undergraduate Research and Experiential Learning Showcase at the University of Notre Dame, Notre Dame, IN, United States. https://cuse.nd.edu/undergraduate-research/sharing-research/presenting-research/undergraduate-research-and-experiential-learning-showcase/
+
    
 # Footer
 footer_show_references: false
