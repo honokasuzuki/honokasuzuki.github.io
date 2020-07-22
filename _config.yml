@@ -22,7 +22,7 @@ about_content: | # this will include new lines to allow paragraphs
   With several internship experiences in data science and analytics, as well as research experience in quantitative psychology, I am passionate about the use of computational, data-driven approaches to tackle problems in education.
   Broadly, my interests lie at the intersection of data science and education, including topics such as educational data mining, learning analytics, edtech, and AI in education. 
   
-  My personal hobbies and interests include healthy baking, fashion illustration, and traveling. 
+  In my free time, I enjoy healthy baking, making fashion illustrations, and going on picnics. 
 
 # Projects Section
 projects_title: Some Projects
@@ -36,22 +36,22 @@ educaton_title: Education
 # MMore Section
 more_title: Honors and Awards
 more_content: | # this will include new lines to allow paragraphs
-   - Outstanding Applied and Computational Mathematics and Statistics Major Award, 2020
+   Outstanding Applied and Computational Mathematics and Statistics Major Award, 2020
    
-   Awarded in recognition as a graduating senior with the most outstanding scholarship, service, and leadership; selected from all ACMS majors in the graduating class of 2020.
+   - Awarded in recognition as a graduating senior with the most outstanding scholarship, service, and leadership; selected from all ACMS majors in the graduating class of 2020.
    
-   - Best Data Visualization Award, American Statistical Association Data Fest at Notre Dame, 2019
+   Best Data Visualization Award, American Statistical Association Data Fest at Notre Dame, 2019
    
-   Worked in a team of 3 during a data analysis competition (approximately 35 participants, 7 teams) organized by the ASA to tackle a large, complex, and surprise dataset over a weekend and presented a final deliverable to a panel of judges at the end of the competition.
+   - Worked in a team of 3 during a data analysis competition (approximately 35 participants, 7 teams) organized by the ASA to tackle a large, complex, and surprise dataset over a weekend and presented a final deliverable to a panel of judges at the end of the competition.
    My teammates and I were awarded “best visual” for our Tableau dashboard that tracked athletes’ game-day external GPS movement, reported internal wellness, and hydration level. 
    
-   - Notre Dame Federal Credit Union Scholarship Recipient, 2018 & 2019
+   Notre Dame Federal Credit Union Scholarship Recipient, 2018 & 2019
    
-   Two-time recipient of NDFCU's annual scholarship award.
+   - Two-time recipient of NDFCU's annual scholarship award.
    
-   - Glynn Family Honors Program Scholar, 2016 - 2020
+   Glynn Family Honors Program Scholar, 2016 - 2020
    
-   Interviewed and selected as a scholar in the class of 2020 cohort of Honors students.
+   - Interviewed and selected as a scholar in the class of 2020 cohort of Honors students.
    
 # Footer
 footer_show_references: false
