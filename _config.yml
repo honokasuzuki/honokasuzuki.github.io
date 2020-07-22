@@ -3,8 +3,8 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Honoka L Suzuki
-# title: Senior Network System Administrator
+name: Honoka Suzuki
+title: Data Scientist
 email: honoka.suzuki3@gmail.com
 website: https://honokasuzuki.github.io/
 
@@ -18,13 +18,11 @@ about_profile_image: images/headshot_small.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Honoka.
 
-  I'm a recent graduate of the University of Notre Dame with a background in Applied & Computational Statistics.
-  With several internship experiences in data science and analytics, as well as research experience in quantitative psychology, I am passionate about the use of computational, data-driven approaches to tackle problems in our society.
-  Put broadly, my career interests lie at the intersection of data and society - I aspire to become a research data scientist whose work impacts areas such as education and public health. 
+  I'm a recent graduate of the University of Notre Dame with a combined background in Applied Math, Statistics, and Education.
+  With several internship experiences in data science and analytics, as well as research experience in quantitative psychology, I am passionate about the use of computational, data-driven approaches to tackle problems in education.
+  Broadly, my interests lie at the intersection of data science and education, including topics such as educational data mining, learning analytics, edtech, and AI in education. 
   
-  Proficient in R and Python, my projects have dealt with analytical techniques such as machine learning, text analysis, data visualization, statistical modeling, and data manipulation.
-  
-  In addition to my interests in data science and social science research, my personal hobbies and interests include healthy baking, fashion illustration, and traveling. 
+  My personal hobbies and interests include healthy baking, fashion illustration, and traveling. 
 
 # Projects Section
 projects_title: Some Projects
@@ -33,20 +31,26 @@ projects_title: Some Projects
 experience_title: Relevant Experience
 
 # Education Section
-# educaton_title: Education
+educaton_title: Education
+
 # MMore Section
-more_title: Awards and Recognition
+more_title: Honors and Awards
 more_content: | # this will include new lines to allow paragraphs
-   - Outstanding Applied and Computational Mathematics and Statistics Major Award
+   - Outstanding Applied and Computational Mathematics and Statistics Major Award, 2020
    
-   I was awarded in recognition as a graduating senior with the most outstanding scholarship, service, and leadership; selected from all ACMS majors in the graduating class of 2020.
+   Awarded in recognition as a graduating senior with the most outstanding scholarship, service, and leadership; selected from all ACMS majors in the graduating class of 2020.
    
-   - Best Data Visualization Award, American Statistical Association Data Fest 2019 at Notre Dame
+   - Best Data Visualization Award, American Statistical Association Data Fest at Notre Dame, 2019
    
-   I worked in a team of 3 during a data analysis competition (approximately 35 participants, 7 teams) organized by the ASA to tackle a large, complex, and surprise dataset over a weekend and presented a final deliverable to a panel of judges at the end of the competition.
+   Worked in a team of 3 during a data analysis competition (approximately 35 participants, 7 teams) organized by the ASA to tackle a large, complex, and surprise dataset over a weekend and presented a final deliverable to a panel of judges at the end of the competition.
    My teammates and I were awarded “best visual” for our Tableau dashboard that tracked athletes’ game-day external GPS movement, reported internal wellness, and hydration level. 
-
-
+   
+   - Notre Dame Federal Credit Union Scholarship Recipient, 2018 & 2019
+   Two-time recipient of NDFCU's annual scholarship award.
+   
+   - Glynn Family Honors Program Scholar, 2016 - 2020
+   Interviewed and selected as a scholar in the class of 2020 cohort of Honors students.
+   
 # Footer
 footer_show_references: false
 
