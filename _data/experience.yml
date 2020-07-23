@@ -7,7 +7,7 @@
     A summer data science internship which led to a full-time role after graduation.
     Internship projects included creating an interactive summary dashboard to display student survey responses, building a classification model for identifying target schools for sales calls, and giving a presentation on insghts gained from an open-ended analysis on traveler cancellation patterns. 
     
-    Programs used: <mark>R</mark>, <mark>Python</mark>, <mark>Power BI</mark>, <mark>SQL</mark>
+    Programs used: <mark>R</mark> <mark>Python</mark> <mark>Power BI</mark> <mark>SQL</mark>
     
 - layout: left
   company: Learning Analytics and Measurement in Behavioral Sciences Lab
@@ -28,7 +28,7 @@
     The Academic Technologies Lab is collaborating with Density (https://www.density.io/) to implement their occupancy sensor platform in various locations of Notre Dame's campus, with the ultimate goal of influencing student behavior by providing students with access to real-time occupancy data. My role in this project was to conduct an internal study to assess the accuracy of the sensors placed in the dining halls and to help design and build a dashboard displaying real-time data that is accessible to ND students. The project involved technical tasks such as data collection, data cleaning, statistical reliability analysis, and creating data visualizations. 
     In addition, I regularly met with the dining hall staff and representatives from Density to obtain data, ask questions, receive feedback, and report findings. 
     
-    Programs used: <mark>R</mark>, <mark>Tableau</mark>
+    Programs used: <mark>R</mark> <mark>Tableau</mark>
         
 - layout: left
   company: Performance Science Team of Notre Dame Athletics
@@ -38,4 +38,4 @@
     A summer sports analytics internship that led to a part-time role on campus for the following semesters. Projects included statistical reliability studies done on various athletic equipment (motion capture systems, wearable technologies), an imputation algorithm development for missing athlete training data, and Bayesian variance component estimation for repeated performance measures. 
     In addition, I cleaned and updated team data stored in the SQL database, conducted literature reviews on sports science research, and communicated findings of my projects with the Athletics staff.  
     
-    Programs used: <mark>R</mark>, <mark>Shiny</mark>, <mark>SQL</mark>, <mark>Tableau</mark>, <mark>Stan</mark>   
+    Programs used: <mark>R</mark> <mark>Shiny</mark> <mark>SQL</mark> <mark>Tableau</mark> <mark>Stan</mark>   
