@@ -15,7 +15,7 @@
   job_title: Research Assistant
   dates: Sep 2017 - May 2020
   description: | # this will include new lines to allow paragraphs
-    A research lab focused on the development of a cognitive diagnostic computerized adaptive testing (CD-CAT) system for AP Statistics coursework. My tasks included data cleaning, running statistical analyses, conducting literature reviews, documenting research methods/findings, and providing peer feedback on academic manuscripts. 
+    A research lab focused on the development of a cognitive diagnostic computerized adaptive testing (CD-CAT) system for AP Statistics coursework. Day-to-day tasks included data cleaning, running statistical analyses, conducting literature reviews, documenting research methods/findings, and providing peer feedback on academic manuscripts. 
     During my senior year, I wrote an honors thesis on the application of machine learning techniques to predict differences between learning outcomes (class grade, AP score, practice AP score) in AP Statistics classrooms to understand sources of variation across student performance on distinct assessments. 
     
     Programs used: <mark>R</mark>
@@ -32,7 +32,7 @@
         
 - layout: left
   company: Performance Science Team of Notre Dame Athletics
-  job_title: Analytics Intern
+  job_title: Analytics Intern // Research Assistant
   dates: May 2018 - May 2020
   description: | # this will include new lines to allow paragraphs
     A summer sports analytics internship that led to a part-time role on campus for the following semesters. Projects included statistical reliability studies done on various athletic equipment (motion capture systems, wearable technologies), an imputation algorithm development for missing athlete training data, and Bayesian variance component estimation for repeated performance measures. 
