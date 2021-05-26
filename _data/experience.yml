@@ -31,7 +31,7 @@
         
 - layout: left
   company: Performance Analytics Team of Notre Dame Athletics
-  job_title: Analytics Intern --> Research Assistant
+  job_title: Research Assistant
   dates: May 2018 - May 2020
   description: | # this will include new lines to allow paragraphs
     Projects included statistical reliability studies done on various athletic equipment (motion capture systems, wearable technologies), an imputation algorithm development for missing athlete training data, and Bayesian variance component estimation for repeated performance measures. 
