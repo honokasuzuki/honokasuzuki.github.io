@@ -4,7 +4,6 @@
   job_title: Data Science Intern // Data Scientist
   dates: Summer 2019 // Jul 2020 - Present
   description: | # this will include new lines to allow paragraphs
-    A summer data science internship which led to a full-time role after graduation.
     Internship projects included creating an interactive summary dashboard to display student survey responses, building a classification model for identifying target schools for sales calls, and giving a presentation on insghts gained from an open-ended analysis on traveler cancellation patterns. 
     
     Programs used: <mark>R</mark> <mark>Python</mark> <mark>Power BI</mark> <mark>SQL</mark>
@@ -35,7 +34,7 @@
   job_title: Analytics Intern // Research Assistant
   dates: May 2018 - May 2020
   description: | # this will include new lines to allow paragraphs
-    A summer sports analytics internship that led to a part-time role on campus for the following semesters. Projects included statistical reliability studies done on various athletic equipment (motion capture systems, wearable technologies), an imputation algorithm development for missing athlete training data, and Bayesian variance component estimation for repeated performance measures. 
+    Projects included statistical reliability studies done on various athletic equipment (motion capture systems, wearable technologies), an imputation algorithm development for missing athlete training data, and Bayesian variance component estimation for repeated performance measures. 
     In addition, I cleaned and updated team data stored in the SQL database, conducted literature reviews on sports science research, and communicated findings of my projects with the Athletics staff.  
     
     Programs used: <mark>R</mark> <mark>Shiny</mark> <mark>SQL</mark> <mark>Tableau</mark> <mark>Stan</mark>   
