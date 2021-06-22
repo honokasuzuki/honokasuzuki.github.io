@@ -1,4 +1,4 @@
-- layout: left
+- layout: top-middle
   name: Text Analysis on Academy Awards Acceptance Speeches - Actors vs. Actresses
   link: github.com/honokasuzuki/academy-awards
   github: honokasuzuki/academy-awards
@@ -6,21 +6,21 @@
     A text analysis project to quantitatively compare transcripts of Academy Award acceptance speeches given by actors and actresses to investigate if there are differences in speech style across gender. 
     The project involves <mark>web scraping</mark>, <mark>data cleaning</mark>, and several <mark>text analytic</mark> techniques including sentiment analysis, structural topic modeling, and part-of-speech tagging, all programmed in <mark>R</mark>.
    
-- layout: left
+- layout: top-middle
   name: North Carolina Public Schools School Report Card - Adapted
   link: public.tableau.com/profile/honoka.suzuki#!/vizhome/NCPSSchoolReportCard/NCDashboard
   github: honokasuzuki/nc-publicschools
   description: | # this will include new lines to allow paragraphs
     An adaptation of the NC Public Schools School Report Card. The final product is an interactive <mark>data visualization</mark> created in <mark>Tableau</mark>, with the source data cleaned in <mark>R</mark>. 
    
-- layout: left
+- layout: top-middle
   name: Cost-Sensitive Neural Networks for Classifying Mushrooms
   link: github.com/honokasuzuki/poison-mushrooms
   github: honokasuzuki/poison-mushrooms
   description: | # this will include new lines to allow paragraphs
     A cost-sensitive <mark>neural network</mark> analysis for detecting poisonous and edible mushrooms and experimentation with varying misclassification costs. The network is built with <mark>PyTorch</mark>. 
 
-- layout: left
+- layout: top-middle
   name: Logistic Regression Models for a Longitudinal MRI Study
   link: github.com/honokasuzuki/mri-dementia
   github: honokasuzuki/mri-dementia
