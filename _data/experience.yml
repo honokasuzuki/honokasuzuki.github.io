@@ -2,7 +2,7 @@
   company: EF Education First
   link: www.ef.edu/
   job_title: Data Science Intern --> Data Scientist
-  dates: Summer 2019 // Jul 2020 - Present
+  dates: Summer 2019 --> Jul 2020 - Present
   description: | # this will include new lines to allow paragraphs
     Internship projects included creating an interactive summary dashboard to display student survey responses, building a classification model for identifying target schools for sales calls, and giving a presentation on insghts gained from an open-ended analysis on traveler cancellation patterns. 
     
@@ -14,8 +14,7 @@
   job_title: Research Assistant
   dates: Sep 2017 - May 2020
   description: | # this will include new lines to allow paragraphs
-    A research lab focused on measurement issues in psychological and educationl assessment, with a focus on AP Statistics students. Topics explored include factor analysis, scale development and validation, computerized adaptive testing, and low- and high-stakes assessment. Day-to-day tasks included data cleaning, running statistical analyses, conducting literature reviews, documenting research methods/findings, and providing peer feedback on academic manuscripts. 
-    During my senior year, I wrote an honors thesis on the application of machine learning techniques to model differences between learning outcomes (class grade, AP score, practice AP score) in AP Statistics classrooms, to understand student- and school-level predictors of variation across performance on distinct assessments. 
+    The research lab is focused on measurement issues in psychological and educationl assessment, with a focus on AP Statistics students. Topics studied included factor analysis, scale development and validation, computerized adaptive testing, and low- and high-stakes assessment. Day-to-day tasks as a research assistant included data cleaning, running statistical analyses, conducting literature reviews, documenting research methods/findings, and providing peer feedback on academic manuscripts. 
     
     Programs used: <mark>R</mark>
     
@@ -24,7 +23,7 @@
   job_title: Data Analyst
   dates: Sep 2019 - May 2020
   description: | # this will include new lines to allow paragraphs
-    The Academic Technologies Lab is collaborating with Density (https://www.density.io/) to implement their occupancy sensor platform in various locations of Notre Dame's campus, with the ultimate goal of influencing student behavior by providing students with access to real-time occupancy data. My role in this project was to conduct an internal study to assess the accuracy of the sensors placed in the dining halls and to help design and build a dashboard displaying real-time data that is accessible to ND students. The project involved technical tasks such as data collection, data cleaning, statistical reliability analysis, and creating data visualizations. 
+    In collaboration with Density (https://www.density.io/), the lab aimed to implement Density occupancy sensors in various locations of Notre Dame's campus, with the ultimate goal of influencing student behavior by providing students with access to real-time occupancy data. My role in this project was to conduct an internal study to assess the accuracy of the sensors in the dining halls and to help design and build a dashboard displaying real-time data that is accessible to ND students. The project involved technical tasks such as data collection, data cleaning, statistical reliability analysis, and creating data visualizations. 
     In addition, I regularly met with the dining hall staff and representatives from Density to obtain data, ask questions, receive feedback, and report findings. 
     
     Programs used: <mark>R</mark> <mark>Tableau</mark>
