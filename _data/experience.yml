@@ -8,7 +8,7 @@
     
     Programs used: <mark>R</mark> <mark>Python</mark> <mark>Power BI</mark> <mark>SQL</mark>
     
-- layout: left
+- layout: top-middle
   company: Learning Analytics and Measurement in Behavioral Sciences Lab
   link: lambslab.nd.edu/
   job_title: Research Assistant
@@ -19,7 +19,7 @@
     
     Programs used: <mark>R</mark>
     
-- layout: left
+- layout: top-middle
   company: Academic Technologies Lab of Notre Dame
   job_title: Data Analyst
   dates: Sep 2019 - May 2020
@@ -29,7 +29,7 @@
     
     Programs used: <mark>R</mark> <mark>Tableau</mark>
         
-- layout: left
+- layout: top-middle
   company: Performance Analytics Team of Notre Dame Athletics
   job_title: Research Assistant
   dates: May 2018 - May 2020
