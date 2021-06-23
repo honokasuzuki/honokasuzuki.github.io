@@ -11,7 +11,7 @@
 - layout: top-middle
   company: Learning Analytics and Measurement in Behavioral Sciences Lab
   link: lambslab.nd.edu/
-  job_title: Research Assistant
+  job_title: Undergraduate Research Assistant
   dates: Sep 2017 - May 2020
   description: | # this will include new lines to allow paragraphs
     The research lab is focused on measurement issues in psychological and educationl assessment, with a focus on AP Statistics students. Topics studied included factor analysis, scale development and validation, computerized adaptive testing, and low- and high-stakes assessment. Day-to-day tasks as a research assistant included data cleaning, running statistical analyses, conducting literature reviews, documenting research methods/findings, and providing peer feedback on academic manuscripts. 
@@ -30,7 +30,7 @@
         
 - layout: top-middle
   company: Performance Analytics Team of Notre Dame Athletics
-  job_title: Research Assistant
+  job_title: Undergraduate Research Assistant
   dates: May 2018 - May 2020
   description: | # this will include new lines to allow paragraphs
     Projects included statistical reliability studies done on various athletic equipment (motion capture systems, wearable technologies), an imputation algorithm development for missing athlete training data, and Bayesian variance component estimation for repeated performance measures. 
