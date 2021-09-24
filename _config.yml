@@ -5,7 +5,7 @@ favicon: images/favicon.ico
 # Personal info
 name: Honoka Suzuki
 title: Data Scientist
-email: honoka.suzuki3 AT gmail.com
+email: hsuzuki AT unc DOT edu
 website: https://honokasuzuki.github.io/
 
 # Social links
@@ -24,11 +24,10 @@ about_content: | # this will include new lines to allow paragraphs
   
   In my free time, I enjoy healthy baking, making fashion illustrations, and going on picnics. 
 
+
 # Projects Section
 projects_title: Undergraduate Projects
 
-# Experience Section
-experience_title: Relevant Experience
 
 # Education Section
 educaton_title: Education
