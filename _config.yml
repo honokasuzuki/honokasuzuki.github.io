@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Honoka Suzuki
-title: 
+title: PhD Student
 email: hsuzuki AT unc DOT edu
 website: https://honokasuzuki.github.io/academic
 
@@ -13,14 +13,20 @@ github_username:  honokasuzuki
 linkedin_username: honoka-suzuki
 
 # About Section
-# about_title: GitHub Pages Home
+# about_title: About Me
 about_profile_image: images/headshot_small.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, thanks for visiting! Please refer to https://honokasuzuki.github.io/academic for my online profile.
+  Hi, thanks for visiting! 
+  
+  I am a Ph.D. student in Quantitative Psychology at the University of North Carolina at Chapel Hill. Prior to starting my Ph.D. program, I worked as a data scientist at an 
+  international education company and obtained my B.S. in Applied Math and Statistics from the University of Notre Dame. My interests revolve around machine learning,  
+  psychometrics, and anything that involves quantitative analysis of social science data.
+  
+  In my free time, I enjoy (healthy) baking, going on picnics, and making fashion illustrations.
 
 
 # Projects Section
-projects_title: Undergraduate Projects
+projects_title: GitHub Pages
 
 # Experience Section
 experience_title: Relevant Experience
