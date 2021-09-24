@@ -26,11 +26,13 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 # Projects Section
-projects_title: Undergraduate Projects
+#projects_title: Undergraduate Projects
 
+# Experience Section
+#experience_title: Relevant Experience
 
 # Education Section
-educaton_title: Education
+#educaton_title: Education
 
 # MMore Section
 more_title: Publications and Presentations
