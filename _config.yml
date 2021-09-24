@@ -4,25 +4,19 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Honoka Suzuki
-title: Data Scientist
+title: 
 email: hsuzuki AT unc DOT edu
-website: https://honokasuzuki.github.io/
+website: https://honokasuzuki.github.io/academic
 
 # Social links
 github_username:  honokasuzuki
 linkedin_username: honoka-suzuki
 
 # About Section
-# about_title: About Me
+# about_title: GitHub Pages Home
 about_profile_image: images/headshot_small.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Honoka.
-
-  I'm a recent graduate of the University of Notre Dame with a combined background in applied math, statistics, and education.
-  With industry experience in data science and analytics, as well as research experience in educational measurement and assessment, I am passionate about the use of data-driven approaches to tackle problems in education and to improve student learning.
-  Broadly, my interests lie at the intersection of education and data science or statistics, including topics such as educational data mining, educational statistics, learning analytics, and edtech. 
-  
-  In my free time, I enjoy healthy baking, making fashion illustrations, and going on picnics. 
+  Hi, thanks for visiting! Please refer to https://honokasuzuki.github.io/academic for my online profile.
 
 
 # Projects Section
