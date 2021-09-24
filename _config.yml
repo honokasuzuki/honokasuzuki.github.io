@@ -35,15 +35,15 @@ experience_title: Relevant Experience
 educaton_title: Education
 
 # MMore Section
-more_title: Publications and Presentations
-more_content: | # this will include new lines to allow paragraphs
-  - Suzuki, H., Hong, M., Ober, T., & Cheng, Y. (2020). Applying Machine Learning to Predict Differences between Learning Outcomes. Under Review.
+#more_title: Publications and Presentations
+#more_content: | # this will include new lines to allow paragraphs
+#  - Suzuki, H., Hong, M., Ober, T., & Cheng, Y. (2020). Applying Machine Learning to Predict Differences between Learning Outcomes. Under Review.
   
-  - Ober, T. M., Coggins, M. R., Rebouças-Ju, D., Suzuki, H., & Cheng, Y. (in press). Effect of teacher support on students’ math attitudes: Measurement and moderation of students’ background characteristics. Contemporary Educational Psychology.
+#  - Ober, T. M., Coggins, M. R., Rebouças-Ju, D., Suzuki, H., & Cheng, Y. (in press). Effect of teacher support on students’ math attitudes: Measurement and moderation of students’ background characteristics. Contemporary Educational Psychology.
 
-  - Suzuki, H., Hong, M., Ober, T., & Cheng, Y. (2020, Mar 20–22). Machine Learning on Student Learning: Modeling Differences Between Various Student Learning Outcomes in AP Statistics Classrooms [Poster Session 1]. ACC Meeting of the Minds Conference at the University of North Carolina, Chapel Hill, NC, United States. https://accmom2020.web.unc.edu/ (Conference canceled due to COVID-19)
+#  - Suzuki, H., Hong, M., Ober, T., & Cheng, Y. (2020, Mar 20–22). Machine Learning on Student Learning: Modeling Differences Between Various Student Learning Outcomes in AP Statistics Classrooms [Poster Session 1]. ACC Meeting of the Minds Conference at the University of North Carolina, Chapel Hill, NC, United States. https://accmom2020.web.unc.edu/ (Conference canceled due to COVID-19)
 
-  - Galvao, D. & Suzuki, H. (2019, Nov 1). Using Real-Time Occupancy Data to Understand and Influence Student Behavior [Poster Session 2]. Undergraduate Research and Experiential Learning Showcase at the University of Notre Dame, Notre Dame, IN, United States. https://cuse.nd.edu/undergraduate-research/sharing-research/presenting-research/undergraduate-research-and-experiential-learning-showcase/
+#  - Galvao, D. & Suzuki, H. (2019, Nov 1). Using Real-Time Occupancy Data to Understand and Influence Student Behavior [Poster Session 2]. Undergraduate Research and Experiential Learning Showcase at the University of Notre Dame, Notre Dame, IN, United States. https://cuse.nd.edu/undergraduate-research/sharing-research/presenting-research/undergraduate-research-and-experiential-learning-showcase/
 
    
 # Footer
