@@ -16,13 +16,6 @@ linkedin_username: honoka-suzuki
 # about_title: About Me
 about_profile_image: 
 about_content: | # this will include new lines to allow paragraphs
-  Hi, thanks for visiting! 
-  
-  I am a Ph.D. student in Quantitative Psychology at the University of North Carolina at Chapel Hill. Prior to starting my Ph.D. program, I worked as a data scientist at an 
-  international education company and obtained my B.S. in Applied Math and Statistics from the University of Notre Dame. My interests revolve around machine learning and psychometrics.
-  
-  In my free time, I enjoy (healthy) baking, reading, and going on picnics.
-
 
 # Projects Section
 projects_title: GitHub Pages
